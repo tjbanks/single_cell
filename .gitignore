@@ -1,0 +1,4 @@
+#Neuron ignores
+*.o
+*.c
+*.dll
